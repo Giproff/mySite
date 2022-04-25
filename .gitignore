@@ -6,3 +6,7 @@
 /TODO # игнорировать только корневой файл TODO, а не файлы вида subdir/TODO
 build/ # игнорировать все файлы в папке build/
 doc/*.txt # игнорировать doc/notes.txt, но не doc/server/arch.txt
+
+# Jetbrains editors (PHPStorm, etc)
+.idea/
+*.iml
